@@ -4,7 +4,7 @@ samplephp
 ## ReadMe
 An updated ReadMe for the do nothing PHP site
 
-## Authors
+## ReadMe Author
 
 ### Ruwani De Alwis
 #### 300057076
